@@ -1,0 +1,21 @@
+# COMANDOS BÁSICOS PARA NAVEGAÇÃO NO TERMINAL 
+
+- LS
+
+- CD
+
+- CD ..
+
+- CD /
+
+- CLEAR OU CTRL L
+
+- TAB
+
+- MK DIR
+
+- ECHO
+
+- RM -RF
+
+  
